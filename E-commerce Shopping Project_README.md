@@ -1,4 +1,4 @@
-# Excel-Projects
+# E-commerce Shopping Project
 Analytics Project Using Excel as the main tool for data cleaning, analysis, and data visualization.
 
 # Project Overview
