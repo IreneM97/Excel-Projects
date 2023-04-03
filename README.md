@@ -1,5 +1,5 @@
 # Excel-Projects
-Analytics Projects Using Excel as the main tool for data cleaning, analysis, and data visualization.
+Analytics Project Using Excel as the main tool for data cleaning, analysis, and data visualization.
 
 # Project Overview
 This project is an analysis of sales data of an e-commerce store as well as understanding customer demogrophics and preferences. Additionally, the interactive customer information table is created to allow viewers to access customer information easily using a flexible dropdown menu.
