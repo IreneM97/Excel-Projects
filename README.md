@@ -18,3 +18,9 @@ This analysis aimed to answer following questions such as
 
 # Used Functions
 XLOOKUP, VLOOKUP, Pivot Table, Pivot Chart, PVT Calculated Fields, dynamic arrays & conditional statements.
+
+# Overview of Dashboard 
+![SC 1](https://user-images.githubusercontent.com/106499453/229594360-fbc10de7-f866-40be-81b9-fc026b1d5e05.png)
+![SC 2](https://user-images.githubusercontent.com/106499453/229594398-a2e32e71-3568-4aa7-84d3-0f350b2cb4d6.png)
+![SC 3](https://user-images.githubusercontent.com/106499453/229594418-f468e257-7a6b-48ba-9952-dfc133c6c2fc.png)
+
