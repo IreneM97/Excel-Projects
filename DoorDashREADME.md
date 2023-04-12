@@ -30,7 +30,7 @@ Hours with the highest order volume are between 12 AM and 3 AM, regardless of th
 #### This information can be utilized by our partner restaurants to optimize their operations during these peak hours either by planning for sufficient manpower for that time frame or stocking up on extra inventory to deliver orders promptly. By doing so, restaurants can potentially maximize their sales during these profitable times.
 ![image](https://user-images.githubusercontent.com/106499453/231359924-6cd088be-b1ca-44ba-ad64-0605361790ae.png)
 Regardless of the region, Week 4 consistently records the highest sales figures.
-![image](https://user-images.githubusercontent.com/106499453/231365626-11eac692-c630-48e7-930b-21f4d6d473e6.png)
+![image](https://user-images.githubusercontent.com/106499453/231533884-c9e941d7-ff78-494d-8f7c-89ef4a599162.png)
 This chart displays the top 10 highest-selling restaurants in each region, which can prove to be a valuable resource for recognizing and rewarding our partner restaurants at the end of the year, thereby helping to maintain positive relationships with them
 
 #### RECOMMENDATIONS
